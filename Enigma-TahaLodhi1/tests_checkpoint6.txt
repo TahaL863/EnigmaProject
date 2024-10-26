@@ -1,0 +1,47 @@
+rotors = IV II I
+0
+offset = B C Z
+0
+plugboard = QA WS ED RF TG YH UJ IK OL MB
+0
+I can't believe it! Cool!
+1 1
+RYPBZMWQVKSBPNRVMD
+rypbz mwqvk sbpnr vmd
+1 1
+ICANTBELIEVEITCOOL
+rotors = I IV II
+0
+offset = GDC
+0
+Wonder Woman
+1 1
+APROLGPMEDY
+offset = rad
+0
+Wonder Woman
+1 1
+NKGELFRXFMO
+rotors = III I IV
+0
+Wonder Woman!
+1 2
+MJBKVCDCCEO
+rotors = III II I
+0
+offset = NDO
+0
+plugboard = AZ BY CX DW EV FU GT HS IR JQ
+0
+RQGMLJZFCE
+1 1
+BARRELROLL
+rotors = III IV I
+0
+offset = BIP
+0
+plugboard = AA
+0
+mango
+1 1
+WCHVE

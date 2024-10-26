@@ -1,0 +1,42 @@
+rotors = II III IV
+0
+offset = A A Z
+0
+plugboard = AA BB CC DD EE FF GG HH II JJ
+0
+P
+1 1
+S
+S
+1 1
+P
+rotors = V III I
+0
+x
+1 1
+R
+rotors = I II III
+0
+g
+1 1
+P
+plugboard = AZ BY CX DW EV FU GT HS IR JQ
+0
+g
+1 1
+U
+h
+1 1
+L
+l
+1 1
+H
+rotors = IV II I
+0
+offset = B C Z
+0
+plugboard = QA WS ED RF TG YH UJ IK OL MB
+0
+i
+1 1
+R
